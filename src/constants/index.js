@@ -234,7 +234,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "http://localhost:5173/",
+    source_code_link: "https://pfemr.netlify.app/",
   },
   {
     name: "Release 2: Gestion des Problémes",
@@ -255,7 +255,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "http://localhost:5174/",
+    source_code_link: "https://pfemr2.netlify.app/",
   },
   {
     name: "Release 3: Gestion des Notifications",
