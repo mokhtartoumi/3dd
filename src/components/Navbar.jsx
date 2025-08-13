@@ -82,7 +82,7 @@ const Navbar = () => {
     // Set the href to the imported CV file
     link.href = cvFile;
     // Set the download attribute with the desired filename
-    link.download = 'PFE_Mokhtar_Rawen.pdf';
+    link.download = 'PFE_Mokhtar.pdf';
     // Append to body
     document.body.appendChild(link);
     // Trigger the download
@@ -205,3 +205,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
