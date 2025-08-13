@@ -17,7 +17,7 @@ const Hero = () => {
 
         <div className="flex-1">
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, we are  <span className='text-[#915EFF]'>Mokhtar and Rawen</span>
+            Hi, we are  <span className='text-[#915EFF]'>Mokhtar</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Information Technology (IT) Students  <br className='sm:block hidden' />
@@ -74,3 +74,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
